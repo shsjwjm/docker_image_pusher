@@ -1,1 +1,1 @@
-ossrs/oryx:v5.14.25
+registry.cn-hangzhou.aliyuncs.com/ossrs/oryx:v5.14.25
